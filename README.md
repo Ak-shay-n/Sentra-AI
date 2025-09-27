@@ -6,7 +6,7 @@
 
 ## 🔍 Project Overview
 
-This project is an AI-driven cybersecurity platform that proactively detects and mitigates threats within an enterprise network. It combines machine learning-based anomaly detection, threat intelligence feeds, and SOAR (Security Orchestration, Automation, and Response) automation to provide real-time threat monitoring and automated mitigation.
+This project is an AI-driven cybersecurity platform that proactively detects and mitigates threats within an enterprise network. It combines machine learning-based anomaly detection, threat intelligence feeds, and SOAR (Security Orchestration, Automation, and Response) autoation to provide real-time threat monitoring and automated mitigation.
 
 ## ✨ Key Features
 
@@ -201,5 +201,6 @@ This platform handles sensitive security data. Please ensure:
 
 ---
 
-**⚠️ Disclaimer**: This tool is intended for legitimate cybersecurity purposes only. Users are responsible for compliance with applicable laws and regulations.#   S e n t r a - A I  
+**⚠️ Disclaimer**: This tool is intended for legitimate cybersecurity purposes only. Users are responsible for compliance with applicable laws and regulations.#   S e n t r a - A I 
+ 
  
