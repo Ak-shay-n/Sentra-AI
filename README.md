@@ -5,35 +5,10 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-**An AI-driven cybersecurity platform that proactively detects and mitigates threats within enterprise networks**
+## 🔍 Project Overview
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation) • [Contributing](#contributing)
-
-</div>
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results & Metrics](#results--metrics)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-
-## 🔍 Overview
-
-Sentra AI is a comprehensive cybersecurity platform that combines machine learning-based anomaly detection, threat intelligence feeds, and SOAR (Security Orchestration, Automation, and Response) automation to provide real-time threat monitoring and automated mitigation for enterprise networks.
+This project is an AI-driven cybersecurity platform that proactively detects and mitigates threats within an enterprise network. It combines machine learning-based anomaly detection, threat intelligence feeds, and SOAR (Security Orchestration, Automation, and Response) automation to provide real-time threat monitoring and automated mitigation.
 
 ## ✨ Features
 
