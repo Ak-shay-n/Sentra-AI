@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **� Issues:** [GitHub Issues](https://github.com/Ak-shay-n/Sentra-AI/issues)
 - **💬 Discussions:** [GitHub Discussions](https://github.com/Ak-shay-n/Sentra-AI/discussions)  
-- **📧 Email:** support@sentra-ai.com
+- **📧 Email:** personalakshay17@gmail.com
 - **📖 Wiki:** [Documentation](https://github.com/Ak-shay-n/Sentra-AI/wiki)
 
 ---
