@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+data/logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# API Keys (keep template)
+config/api_keys.json
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ML Models (large files)
+*.model
+*.pkl
+*.joblib
+data/models/*.bin
+data/models/*.h5
+
+# Data files
+data/raw/*
+data/processed/*
+data/training/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/training/.gitkeep
+
+# Reports
+data/reports/*
+!data/reports/.gitkeep

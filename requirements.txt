@@ -1,0 +1,12 @@
+flask
+fastapi
+uvicorn
+pandas
+scikit-learn
+tensorflow
+redis
+psycopg2-binary
+elasticsearch
+python-dotenv
+pyyaml
+requests

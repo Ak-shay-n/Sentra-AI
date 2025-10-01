@@ -1,0 +1,12 @@
+app:
+  name: Sentra AI
+  mode: development
+  host: 127.0.0.1
+  port: 8000
+
+database:
+  url: "postgresql://user:password@localhost:5432/sentra_ai"
+
+cache:
+  host: "localhost"
+  port: 6379

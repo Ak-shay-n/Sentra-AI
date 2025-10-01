@@ -1,0 +1,19 @@
+{
+  "threat_intelligence": {
+    "alienvault_otx": "your_otx_api_key_here",
+    "abuseipdb": "your_abuseipdb_api_key_here",
+    "virustotal": "your_virustotal_api_key_here",
+    "ibm_xforce": "your_xforce_api_key_here"
+  },
+  "monitoring": {
+    "prometheus_endpoint": "http://localhost:9090",
+    "grafana_api_key": "your_grafana_api_key_here"
+  },
+  "database": {
+    "connection_string": "postgresql://user:password@localhost/sentra_ai"
+  },
+  "security": {
+    "secret_key": "your_secret_key_here",
+    "jwt_secret": "your_jwt_secret_here"
+  }
+}
