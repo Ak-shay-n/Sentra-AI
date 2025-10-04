@@ -62,7 +62,7 @@ graph LR
 
 ## 📊 Performance
 
-| Metric | Value | Industry Avg |
+| Metrics | Value | Industry Avg |
 |--------|-------|-------------|
 | Detection Accuracy | **97.3%** | 85-90% |
 | False Positive Rate | **2.1%** | 5-15% |
