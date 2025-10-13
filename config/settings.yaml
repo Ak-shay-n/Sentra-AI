@@ -5,7 +5,7 @@ app:
   port: 8000
 
 database:
-  url: "postgresql://user:password@localhost:5432/sentra_ai"
+  url: "postgresql://postgres:0000@localhost:5432/sentra_ai"
 
 cache:
   host: "localhost"
